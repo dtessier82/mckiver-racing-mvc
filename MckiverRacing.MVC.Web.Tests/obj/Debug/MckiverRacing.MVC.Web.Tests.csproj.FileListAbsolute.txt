@@ -1,0 +1,16 @@
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\MckiverRacing.MVC.Web.Tests.dll.config
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\MckiverRacing.MVC.Web.Tests.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\MckiverRacing.MVC.Web.Tests.pdb
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\MckiverRacing.MVC.Web.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\MckiverRacing.MVC.Services.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\MckiverRacing.MVC.Data.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\DTConsulting.Common.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\MckiverRacing.MVC.Web.pdb
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\MckiverRacing.MVC.Services.pdb
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\MckiverRacing.MVC.Data.pdb
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\bin\Debug\DTConsulting.Common.pdb
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\obj\Debug\MckiverRacing.MVC.Web.Tests.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\obj\Debug\MckiverRacing.MVC.Web.Tests.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web.Tests\obj\Debug\MckiverRacing.MVC.Web.Tests.pdb

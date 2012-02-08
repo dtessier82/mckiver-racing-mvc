@@ -1,0 +1,126 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+   <meta name="keywords" content="motorcyle racing, racing, motorcycles, shannonville, R.A.C.E" />
+<meta name="generator" content="Visual Studio 2010 - MVC" />
+<meta name="description" content="Site dedicated to the up and coming R.A.C.E Series Motorcyle Racing" />
+<meta name="viewport" content="width = 1024, mimimum-scale = 0.25, maximum-scale = 1.60" />
+
+<link rel="shortcut icon" href="../../Content/images/favicon.ico" />
+    <link type="text/css" href="../../Content/styles/site.css" rel="Stylesheet" />
+    <title>684 McKiver Racing</title>
+    <!-- include jQuery library -->
+    <script type="text/javascript" src="../../Scripts/jquery-1.4.1.js"></script>
+    <!-- include Cycle plugin -->
+    <script type="text/javascript" src="../../Scripts/jquery.cycle.all.js"></script>
+    <!--  initialize the slideshow when the DOM is ready -->
+    <script type="text/javascript">
+
+        $('#sponsors').cycle({
+            fx: 'fade',
+            speed: 300,
+            timeout: 3000,
+            next: '#sponsors',
+            pause: 1
+
+        });
+
+
+
+
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="outerwrapper">
+        <div id="topheader">
+            &nbsp;
+        </div>
+        <div class="header">
+            <div class="table_row">
+                <div class="table_col_left_500">
+                    <div class="PadTop80">
+                        <img src="../../Content/images/team_name.png" alt="Team Name" style="width: 432px" />
+                    </div>
+                    <br />
+                    <img src="../../Content/images/bike2.png" style="height: 309px; width: 426px; margin-top: 0px;"
+                        alt="Bike" /></div>
+                <div class="table_col_left">
+                    <div style="background: url('../../Content/images/684_back.png') no-repeat; height: 300px;
+                        width: 523px; text-align: center; padding-top: 180px;">
+                        <% Html.RenderPartial("menuNav"); %>
+                        <br />
+                       
+                        <div style="padding-left:80px;">
+                         <h4>Thanks to the following sponsors for their support in <%:DateTime.Now.Year.ToString() %>!</h4>
+                        <div id="browser">
+                    
+                            <div id="sponsors">
+                              <img  src="../../Content/images/sponsors/NGKSparkPlugsLogo_249px.jpg" alt="NGK Spark Plugs Canada. Thanks for you support in 2011." />
+                              <img src="../../Content/images/sponsors/techspec_logo.png" alt="Lean Angle Canada/TechSpec. Thanks for you support in 2011." />
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <br style="clear: both;" />
+            </div>
+        </div>
+        <div id="outercontent">
+            <div id="content">
+                <asp:ContentPlaceHolder ID="main" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div class="footerwrapper">
+            <div id="footer">
+                <div id="footerinnerwrapper">
+                    <div class="table_row">
+                        <div class="table_col_left_350_w_r_border">
+                            Copyright &copy 2011 McKiver Racing<br />
+                            <br />
+                            <a href="/Home">Home</a> | <a href="/Bio">Bio</a> | <a href="/Schedule">Schedule & Results</a>
+                            | <a href="/Photos">Photos</a> | <a href="/ContactUs">Contact</a><br />
+                            <br />
+                            Images Provided By <a href="http://competitionimages.com/" target="_blank">Competition
+                                Images</a><br /><br />
+                            Site Design & Development By <a href="http://www.dtconsulting.ca" target="_blank">DT Consulting</a>
+                            
+                        </div>
+                        <div class="table_col_left_350_w_r_border">
+                            &nbsp;&nbsp;<u>Get In Touch:</u><br />
+                            <br />
+                            <br />
+                            &nbsp;&nbsp;For sponsorship support<br />
+                            &nbsp;&nbsp;please contact <a href="/ContactUs">sponsorship@mckiver-racing.ca</a>.<br />
+                            <br />
+                            <br />
+                            &nbsp;&nbsp;For general questions:<br />
+                            &nbsp;&nbsp;please contact <a href="/ContactUs">info@mckiver-racing.ca</a>
+                        </div>
+                        <div class="table_col_left_350r">
+                            &nbsp;&nbsp;<u>See what everyone is saying!</u><br />
+                            <br />
+                            <br />
+                            &nbsp;&nbsp;Sign the <a href="/GuestBook">guestbook</a> and see what
+                            <br />
+                            &nbsp;&nbsp;everyone is saying about Team 684.<br />
+                            <br />
+                            <br />
+                            &nbsp;&nbsp;Go over to the <a href="#"  onclick="javascript:alert('McKiver Racing Forums Coming Soon!');">Forums</a> section
+                            <br />
+                            &nbsp;&nbsp;to join the Team 684 Experience.<br />
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
+

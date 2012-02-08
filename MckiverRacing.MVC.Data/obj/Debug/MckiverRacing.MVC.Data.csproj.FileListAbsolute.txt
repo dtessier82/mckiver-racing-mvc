@@ -1,0 +1,21 @@
+c:\users\dave\documents\visual studio 2010\Projects\MickiverRacing.MVC\MckiverRacing.MVC.Data\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2010\Projects\MickiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\MckiverRacing.MVC.Data.dll
+c:\users\dave\documents\visual studio 2010\Projects\MickiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\MckiverRacing.MVC.Data.pdb
+c:\users\dave\documents\visual studio 2010\Projects\MickiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\DTConsulting.Common.dll
+c:\users\dave\documents\visual studio 2010\Projects\MickiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\DTConsulting.Common.pdb
+c:\users\dave\documents\visual studio 2010\Projects\MickiverRacing.MVC\MckiverRacing.MVC.Data\obj\Debug\MckiverRacing.MVC.Data.dll
+c:\users\dave\documents\visual studio 2010\Projects\MickiverRacing.MVC\MckiverRacing.MVC.Data\obj\Debug\MckiverRacing.MVC.Data.pdb
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\MckiverRacing.MVC.Data.dll
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\MckiverRacing.MVC.Data.pdb
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\DTConsulting.Common.dll
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\DTConsulting.Common.pdb
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\obj\Debug\MckiverRacing.MVC.Data.dll
+C:\Users\Dave\Documents\Visual Studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\obj\Debug\MckiverRacing.MVC.Data.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\MckiverRacing.MVC.Data.dll
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\MckiverRacing.MVC.Data.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\DTConsulting.Common.dll
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\bin\Debug\DTConsulting.Common.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\obj\Debug\MckiverRacing.MVC.Data.dll
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Data\obj\Debug\MckiverRacing.MVC.Data.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MckiverRacing.MVC.Services", "MckiverRacing.MVC.Services\MckiverRacing.MVC.Services.csproj", "{24E3E56B-D9AC-42C4-B0CE-AE5B1C6607DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MckiverRacing.MVC.Data", "MckiverRacing.MVC.Data\MckiverRacing.MVC.Data.csproj", "{C329E507-C739-4755-AF7D-53A586E28CED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MckiverRacing.MVC.Web", "MckiverRacing.MVC.Web\MckiverRacing.MVC.Web.csproj", "{5E33385B-2B2D-4446-BECC-6738462B7CFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E3E56B-D9AC-42C4-B0CE-AE5B1C6607DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E3E56B-D9AC-42C4-B0CE-AE5B1C6607DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E3E56B-D9AC-42C4-B0CE-AE5B1C6607DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E3E56B-D9AC-42C4-B0CE-AE5B1C6607DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C329E507-C739-4755-AF7D-53A586E28CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C329E507-C739-4755-AF7D-53A586E28CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C329E507-C739-4755-AF7D-53A586E28CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C329E507-C739-4755-AF7D-53A586E28CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E33385B-2B2D-4446-BECC-6738462B7CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E33385B-2B2D-4446-BECC-6738462B7CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E33385B-2B2D-4446-BECC-6738462B7CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E33385B-2B2D-4446-BECC-6738462B7CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

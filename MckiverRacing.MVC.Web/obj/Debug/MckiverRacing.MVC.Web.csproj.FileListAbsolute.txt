@@ -1,0 +1,26 @@
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Web.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Web.pdb
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Data.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Services.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\DTConsulting.Common.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Data.pdb
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Services.pdb
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\DTConsulting.Common.pdb
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\obj\Debug\MckiverRacing.MVC.Web.dll
+c:\users\dave\documents\visual studio 2010\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\obj\Debug\MckiverRacing.MVC.Web.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\obj\Debug\MckiverRacing.MVC.Web.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Web.dll
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Web.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Data.dll
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Services.dll
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MvcReCaptcha.dll
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\DTConsulting.Common.dll
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\Recaptcha.dll
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Data.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MckiverRacing.MVC.Services.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\MvcReCaptcha.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\DTConsulting.Common.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\bin\Recaptcha.pdb
+C:\Users\Dave\Documents\Projects\McKiverRacing.MVC\MckiverRacing.MVC.Web\obj\Debug\MckiverRacing.MVC.Web.dll

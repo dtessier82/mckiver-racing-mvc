@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C329E507-C739-4755-AF7D-53A586E28CED}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MckiverRacing.MVC.Data</RootNamespace>
+    <AssemblyName>MckiverRacing.MVC.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess\Data\SqlGuestBookRepository.cs" />
+    <Compile Include="DataAccess\Data\SqlScheduleRepository.cs" />
+    <Compile Include="DataAccess\Data\SqlNewsRepository.cs" />
+    <Compile Include="DataAccess\Data\SqlScheduleResultsRepository.cs" />
+    <Compile Include="DataAccess\Data\SqlSponsorsRepository.cs" />
+    <Compile Include="DataAccess\Interfaces\IGuestBookRepository.cs" />
+    <Compile Include="DataAccess\Interfaces\INewsRepository.cs" />
+    <Compile Include="DataAccess\Data\DB\DBUtils.cs" />
+    <Compile Include="DataAccess\Interfaces\IScheduleRepository.cs" />
+    <Compile Include="DataAccess\Interfaces\IScheduleResultsRepository.cs" />
+    <Compile Include="DataAccess\Interfaces\ISponsorsRepository.cs" />
+    <Compile Include="DataAccess\Interfaces\IUserRepository.cs" />
+    <Compile Include="Models\BaseModel.cs" />
+    <Compile Include="Models\GuestBook.cs" />
+    <Compile Include="Models\Link.cs" />
+    <Compile Include="Models\Race_Class.cs" />
+    <Compile Include="Models\News.cs" />
+    <Compile Include="Models\Race_Schedule.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Models\Race_ScheduleResult.cs" />
+    <Compile Include="Models\Race_Series.cs" />
+    <Compile Include="Models\Race_Track.cs" />
+    <Compile Include="Utilities\ConfigKeys.cs" />
+    <Compile Include="Utilities\EmailMessage.cs" />
+    <Compile Include="Utilities\EnumDisplayAttribute.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DTConsulting.Common\DTConsulting.Common\DTConsulting.Common.csproj">
+      <Project>{D30B4541-4FFD-403D-B8F5-56894F833FE7}</Project>
+      <Name>DTConsulting.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Sponsor.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
